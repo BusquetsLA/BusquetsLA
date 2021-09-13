@@ -10,7 +10,7 @@ I'm a full-stack developer:
 
 You can reach me:
 - busquetsla@gmail.com
-- https://www.linkedin.com/in/busquets-lautaro-agustin/?locale=en_US
+- https://www.linkedin.com/in/busquets-lautaro-agustin/
 
 Feel free to check out the projects i've been working on!
 
