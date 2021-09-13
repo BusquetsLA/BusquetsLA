@@ -9,7 +9,7 @@ I'm a full-stack developer:
 - Algorithms & Data Structure
 
 You can reach me:
-- mailto:busquetsla@gmail.com
+- busquetsla@gmail.com
 - https://www.linkedin.com/in/busquets-lautaro-agustin/?locale=en_US
 
 Feel free to check out the projects i've been working on!
