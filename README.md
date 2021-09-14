@@ -12,7 +12,7 @@
 - busquetsla@gmail.com
 - https://www.linkedin.com/in/busquets-lautaro-agustin/
 
-Feel free to check out the projects i've been working on!
+Feel free to check out the projects I've been working on!
 
 <!--
 **BusquetsLA/BusquetsLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
