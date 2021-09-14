@@ -23,10 +23,8 @@ Feel free to check out the projects I've been working on!
 <img alingn='left' alt='BusquetsLA GitHub stats' src='https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=radical' />
 
 
-<div display='none'>
-  [linkedin]: https://www.linkedin.com/in/busquets-lautaro-agustin/
-  [gmail]: busquetsla@gmail.com
-</div>
+[linkedin]: https://www.linkedin.com/in/busquets-lautaro-agustin/
+[gmail]: mailto:busquetsla@gmail.com
 
 <!--
 **BusquetsLA/BusquetsLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
