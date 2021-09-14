@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm a full-stack developer:
+### I'm a full-stack developer:
 - JavaScript, ECMAScript6
 - React.js, Redux
 - Node.js, Express.js, Sequelize ORM
@@ -8,7 +8,7 @@ I'm a full-stack developer:
 - HTML, CSS
 - Algorithms & Data Structure
 
-You can reach me:
+### You can reach me:
 - busquetsla@gmail.com
 - https://www.linkedin.com/in/busquets-lautaro-agustin/
 
