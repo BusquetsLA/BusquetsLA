@@ -27,4 +27,6 @@ Feel free to check out the projects I've been working on!
 
 <!--
 **BusquetsLA/BusquetsLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Si estás leyendo ésto contratame ;)
+If you're reading this hire me ;)
 -->
