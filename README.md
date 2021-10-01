@@ -4,7 +4,7 @@
 ### I'm a full-stack developer:
 - JavaScript, ECMAScript6
 - React.js, Redux
-- Node.js, Express.js, Sequelize ORM
+- Node.js, Express.js, Sequelize, Mongoose
 - PostgreSQL, mongoDB
 - HTML, CSS
 - Algorithms & Data Structures
