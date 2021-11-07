@@ -20,11 +20,11 @@ Feel free to check out the projects I've been working on!
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="justify" alt='BusquetsLA GitHub stats' src="https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="justify" alt='BusquetsLA GitHub stats' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusquetsLA&layout=compact&theme=github_dark" />
+<a>
+  <img align="justify" alt='BusquetsLA GitHub stats' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusquetsLA&count_private=true&layout=compact&theme=github_dark" />
 </a>
 
 
