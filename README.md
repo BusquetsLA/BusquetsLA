@@ -21,6 +21,7 @@ Feel free to check out the projects I've been working on!
 ---
 
 <img alingn='left' alt='BusquetsLA GitHub stats' src='https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=github_dark' />
+<img alingn='left' alt='BusquetsLA GitHub stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BusquetsLA&layout=compact&theme=github_dark' />
 
 [linkedin]: https://www.linkedin.com/in/busquets-lautaro-agustin/
 [gmail]: mailto:busquetsla@gmail.com
