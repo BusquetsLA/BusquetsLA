@@ -20,9 +20,6 @@ Feel free to check out the projects I've been working on!
 
 ---
 
-<img alingn='left' alt='BusquetsLA GitHub stats' src='https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=github_dark' />
-<img alingn='left' alt='BusquetsLA GitHub stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BusquetsLA&layout=compact&theme=github_dark' />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="justify" alt='BusquetsLA GitHub stats' src="https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=github_dark" />
 </a>
@@ -38,4 +35,6 @@ Feel free to check out the projects I've been working on!
 **BusquetsLA/BusquetsLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Si estás leyendo ésto contratame ;)
 If you're reading this hire me ;)
+<img alingn='left' alt='BusquetsLA GitHub stats' src='https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=github_dark' />
+<img alingn='left' alt='BusquetsLA GitHub stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=BusquetsLA&layout=compact&theme=github_dark' />
 -->
