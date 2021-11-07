@@ -24,7 +24,7 @@ Feel free to check out the projects I've been working on!
   <img align="justify" alt='BusquetsLA GitHub stats' src="https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 <a>
-  <img align="justify" alt='BusquetsLA GitHub stats' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusquetsLA&count_private=true&layout=compact&theme=github_dark" />
+  <img align="justify" alt='BusquetsLA GitHub stats' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusquetsLA&count_private=true&langs_count=10&layout=compact&theme=github_dark" />
 </a>
 
 
