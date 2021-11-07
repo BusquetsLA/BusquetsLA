@@ -20,15 +20,7 @@ Feel free to check out the projects I've been working on!
 
 ---
 
-<img alingn='left' alt='BusquetsLA GitHub stats' src='https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=radical' />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
+<img alingn='left' alt='BusquetsLA GitHub stats' src='https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=github_dark' />
 
 [linkedin]: https://www.linkedin.com/in/busquets-lautaro-agustin/
 [gmail]: mailto:busquetsla@gmail.com
