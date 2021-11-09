@@ -12,8 +12,8 @@
 ---
 
 ### You can reach me:
-[<img align="left" background=white alt="BusquetsLA | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" background=white alt="BusquetsLA | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/gmail.svg" />][gmail]
+[<img align="left" background-color=white alt="BusquetsLA | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" background-color=white alt="BusquetsLA | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/gmail.svg" />][gmail]
 <br />
 
 Feel free to check out the projects I've been working on!
