@@ -9,6 +9,9 @@
 - HTML, CSS
 - Algorithms & Data Structures
 
+Also:
+- Golang!!!
+
 ---
 
 ### You can reach me:
