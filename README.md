@@ -8,7 +8,6 @@
 - PostgreSQL, mongoDB
 - HTML, CSS
 - Algorithms & Data Structures
-
 Also:
 - Golang!!!
 
