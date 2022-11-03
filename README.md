@@ -3,8 +3,8 @@
 
 ### I'm a full-stack developer:
 - JavaScript, ECMAScript6
-- React.js, Redux
-- Node.js, Express.js, Sequelize, Mongoose
+- React, Redux
+- Node.js, Express, Sequelize, Mongoose
 - PostgreSQL, mongoDB
 - HTML, CSS
 - Algorithms & Data Structures
