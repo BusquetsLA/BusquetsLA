@@ -21,14 +21,14 @@ Also:
 Feel free to check out the projects I've been working on!
 
 ---
-
+/*
 <a>
   <img align="justify" alt='BusquetsLA GitHub stats' src="https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 <a>
   <img align="justify" alt='BusquetsLA GitHub stats' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusquetsLA&count_private=true&langs_count=9&hide=shell&layout=compact&theme=github_dark" />
 </a>
-
+*/
 
 [linkedin]: https://www.linkedin.com/in/busquets-lautaro-agustin/
 [gmail]: mailto:busquetsla@gmail.com
