@@ -1,29 +1,16 @@
-# Hello there!
+## Hello there!
 ```json
 {
     "name": "Lautaro Agustín Busquets",
     "career": "software developer",
     "location": "Córdoba, Argentina",
-    "technologies": {
-        "languages": [
-            "Go", "JavaScript"
-        ],
-        "back-end": [
-            "NodeJS", "ExpressJS", "Sequelize", "Mongoose"
-        ],
-        "front-end": [
-            "React", "Redux", "HTML", "CSS"
-        ],
-        "database": [
-            "PostgreSQL", "MongoDB"
-        ],
-        "plus": [
-            "Algorithms", "Data Structures"
-        ]
+    "tech-stack": {
+        "languages": [ "Go", "JavaScript" ],
+        "back-end": [ "NodeJS", "ExpressJS", "Sequelize", "Mongoose" ],
+        "front-end": [ "React", "Redux", "HTML", "CSS" ],
+        "database": [ "PostgreSQL", "MongoDB" ]
     },
-    "interests": [
-        "tecnology", "gardening", "traveling"
-    ]
+    "interests": [ "tecnology", "gardening", "traveling" ]
 }
 ```
 #
@@ -40,7 +27,6 @@
 <br />
 
 #
-
 <a>
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=BusquetsLA&count_private=true&show_icons=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
@@ -55,13 +41,10 @@
  </a>
  
 #
-
-### Feel free to contact me:
 [<img align="left" width="35px" alt="BusquetsLA | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" width="35px" alt="BusquetsLA | Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
 <br />
-### And check out the projects I've been working on!
-
+### Contact me and feel free to check out the projects I've been working on!
 
 
 [Golang]: https://go.dev/
