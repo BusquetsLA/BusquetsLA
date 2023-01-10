@@ -10,7 +10,7 @@
         "front-end": [ "React", "Redux", "HTML", "CSS" ],
         "database": [ "PostgreSQL", "MongoDB" ]
     },
-    "interests": [ "tecnology", "gardening", "traveling" ]
+    "interests": [ "technology", "gardening", "traveling" ]
 }
 ```
 #
