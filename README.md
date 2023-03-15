@@ -26,6 +26,7 @@
 [<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />][CSS]
 <br />
 
+<!--
 #
 <a>
   <picture>
@@ -39,7 +40,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BusquetsLA&show_icons=true" alt="BusquetsLA GitHub stats" />
   </picture>
  </a>
- 
+ -->
 #
 [<img align="left" width="35px" alt="BusquetsLA | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" width="35px" alt="BusquetsLA | Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail]
